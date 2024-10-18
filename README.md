@@ -14,16 +14,16 @@ This repository contains a simulation of a router switch fabric that implements 
 Here are some important snapshots from the simulation:
 
 1. **Initial State**: Displays the initial state of the ports, the priority list, and the initial pointers in the priority list.
-   ![Initial State](SS/Initial states printed.png)
+   ![Initial State](SS/Initial%20states%20printed.png)
 
 2. **Packet Generation**: Shows the generation of packets and the first iteration of the scheduling algorithm.
-   ![Packet Generation](SS/After packet generation, first iteration of the algo.png)
+   ![Packet Generation](SS/After%20packet%20generation,%20first%20iteration%20of%20the%20algo.png)
 
 3. **Maximal Matching**: Depicts the last iteration before a maximal matching is found and shows the data being transferred.
-   ![Maximal Matching](SS/After maximal matching found.png)
+   ![Maximal Matching](SS/After%20maximal%20matching%20found.png)
 
 4. **KPM Data Output**: Outputs the KPM (Key Performance Metrics) data after running the simulation for the desired duration.
-   ![KPM Data Output](SS/KPM details.png)
+   ![KPM Data Output](SS/KPM%20details.png)
 
 ## How to Run the Program
 
